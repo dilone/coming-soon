@@ -1,16 +1,16 @@
-# Coming Soon / Maintenance Mode / Under construction Plugin by AV Themes
+# Coming Soon / Maintenance Mode / Under construction Plugin
 
 [![Coming soon sample 1](https://i.imgur.com/fAY8FCk.png)](https://i.imgur.com/fAY8FCk.png, "Coming soon sample 1")
 
-More [screenshots](https://github.com/avthemes/coming-soon#screenshots) below
+More [screenshots](https://github.com/dilone/coming-soon#screenshots) below
 
 Create a clean and beautiful coming soon, under construction or maintenance mode page while your website is being developed. Make your website inaccessible to the public with our simple to use Coming soon page, Under construction or Maintenance mode plugin. Logged in users and admins will have full access to the site while the plugin is active to see the progress and update being worked on.
 
 ## Plugin Demo
 
-* [Coming soon page demo 1]()
-* [Maintenance mode demo]()
-* [Coming soon page demo 2]()
+- [Coming soon page demo 1]()
+- [Maintenance mode demo]()
+- [Coming soon page demo 2]()
 
 Video Demo:
 
@@ -20,27 +20,27 @@ Video Demo:
 
 Plugin featured overview:
 
-* Works with any WordPress theme
-* Visible only to non logged in users
-* Give your clients a special link to see the upcoming website
-* Responsive layout and design for mobile devices
-* Customize the design and layout to your liking
-* Set your own logo
-* Shortcode support
-* Set a background image or solid background color
-* Integrated with Google Fonts
-* Set your own font abd background colors
-* Optional 503 response header to notify search engines that your site is down for maintenance
-* Google Analytics support
-* Custom CSS support
-* Option to show/hide count down widget
-* Receive lifetime updates
-* Option to delete or keep the plugin settings after removing the plugin
-* Translation ready
+- Works with any WordPress theme
+- Visible only to non logged in users
+- Give your clients a special link to see the upcoming website
+- Responsive layout and design for mobile devices
+- Customize the design and layout to your liking
+- Set your own logo
+- Shortcode support
+- Set a background image or solid background color
+- Integrated with Google Fonts
+- Set your own font abd background colors
+- Optional 503 response header to notify search engines that your site is down for maintenance
+- Google Analytics support
+- Custom CSS support
+- Option to show/hide count down widget
+- Receive lifetime updates
+- Option to delete or keep the plugin settings after removing the plugin
+- Translation ready
 
 ## Notes
 
-Our aim is to help you get the most out of your WordPress site both with our Plugins and Themes. 
+Our aim is to help you get the most out of your WordPress site both with our Plugins and Themes.
 
 If you feel that we have achieved this by using this plugin, please [leave us a review](https://wordpress.org/support/plugin/av-coming-soon/reviews/#new-post). We appreciate it very much and your feedback helps us develop better plugins and themes.
 
@@ -71,7 +71,7 @@ Yes, you are welcome to modify it as you see fit.
 
 ### Where can I suggest a new feature or report a bug?
 
-Please use [the issue tracker on the GitHub repo](https://github.com/avthemes/coming-soon/issues) as it's easier to keep track of issues there, rather than on the wordpress.org support forums.
+Please use [the issue tracker on the GitHub repo](https://github.com/dilone/coming-soon/issues) as it's easier to keep track of issues there, rather than on the wordpress.org support forums.
 
 ### How do I install the plugin?
 
@@ -85,17 +85,20 @@ No, we do not accept donations. If you like the plugin, I would love for you to 
 
 ## Changelog
 
-For the changelog, please see [the Releases page on GitHub](https://github.com/avthemes/coming-soon/releases).
+For the changelog, please see [the Releases page on GitHub](https://github.com/dilone/coming-soon/releases).
 
 ## Upgrade Notice
 
 ### v1.0.1
+
 Minor typography updates.
 
 ### v1.0
+
 No upgrades required.
 
 ## License
+
 [GPLv2 or later](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
 ## Screenshots
