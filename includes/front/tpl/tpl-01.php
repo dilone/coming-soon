@@ -54,7 +54,7 @@
 			&copy; <?php echo date('Y'); ?> - <?php echo esc_html(get_bloginfo('name')); ?>
 			<?php if ((int)$DLN_CS_options['show_login'] == 1) { ?> &bull; &#128274; <a href="<?php echo esc_url_raw(home_url('wp-admin')); ?>" rel="nofollow"><?php _e('Login', 'dln-coming-soon'); ?></a><?php } ?>
 			<?php if ((int)$DLN_CS_options['show_plugin_url'] == 1) { ?>
-				<br><small><?php _e('This site is using the free <a href="https://avthemes.com/plugin/coming-soon">AV Coming Soon</a> plugin', 'dln-coming-soon'); ?></small>
+				<br><small><?php _e('This site is using the <a href="https://github.com/dilone/coming-soon">Dilone Coming Soon</a> plugin', 'dln-coming-soon'); ?></small>
 			<?php } ?>
 		</div>
 	</div>
