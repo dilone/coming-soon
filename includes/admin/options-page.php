@@ -6,13 +6,14 @@
  * @return void
  */
 
- if( ! function_exists( 'AV_Plugins_plugin_options_page' ) ) {
-	
-	function AV_Plugins_plugin_options_page() {
+if (!function_exists('AV_Plugins_plugin_options_page')) {
 
-		$av_plugins = avthemes_get_plugins();
+	function AV_Plugins_plugin_options_page()
+	{
 
-		include( AV_CS_PLUGIN_PATH . 'includes/admin/tpl/av-plugins-main.php' );
+		$av_plugins = dilone_get_plugins();
+
+		include(DLN_CS_PLUGIN_PATH . 'includes/admin/tpl/av-plugins-main.php');
 	}
 }
 
@@ -21,9 +22,10 @@
  *
  * @return void
  */
-function AV_CS_plugin_options_page() {
+function DLN_CS_plugin_options_page()
+{
 
-	$plugin_options			= get_option( 'AV_CS_options' );
-	
-	include( AV_CS_PLUGIN_PATH . 'includes/admin/tpl/plugin-options.php' );
+	$plugin_options			= get_option('DLN_CS_options');
+
+	include(DLN_CS_PLUGIN_PATH . 'includes/admin/tpl/plugin-options.php');
 }
